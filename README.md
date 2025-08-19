@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Engenheiro de Software Fullstack no Grupo Nexun, atuando no desenvolvimento de aplicações web, mobile e soluções de automação que conectam tecnologia e experiência do usuário.<br>💻 Minha trajetória combina engenharia de software, arquitetura de sistemas e inovação em automação residencial e corporativa, explorando desde a mecânica de jogos até integrações em nuvem.<br>🔧 Certificado por Intelbras, Unifi e Cisco, aplico práticas modernas de desenvolvimento e infraestrutura para entregar projetos escaláveis, seguros e de alto impacto.<br>🌎 Apaixonado por transformar ideias em produtos inteligentes, busco constantemente alinhar criatividade, performance e tecnologia de ponta.</p>
+<p align="left">🚀 Sou Engenheiro de Software Fullstack no Grupo Nexun, atuando no desenvolvimento de aplicações web, mobile e soluções de automação que conectam tecnologia e experiência do usuário.<br>💻 Minha trajetória combina engenharia de software, arquitetura de sistemas e inovação em automação residencial e corporativa, explorando desde a mecânica de jogos até integrações em nuvem.<br>🔧 Certificado por Intelbras, Unifi e Cisco, aplico práticas modernas de desenvolvimento e infraestrutura para entregar projetos escaláveis, seguros e de alto impacto.<br>🌎 Apaixonado por transformar ideias em produtos inteligentes, busco constantemente alinhar criatividade, performance e tecnologia de ponta.</p>
 
 ###
 
